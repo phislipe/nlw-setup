@@ -19,7 +19,7 @@
 
 The project was to build a daily <a href="https://www.figma.com/community/file/1195050984449538256">habit tracker</a> assistant.
 
-- Made some changes of my own and added some hover animations and a button to display a complete mockup of the application.
+- Made changes of my own and added some hover animations and a button to display a complete mockup of the application.
 
 <br>
 
