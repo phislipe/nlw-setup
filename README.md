@@ -15,7 +15,7 @@
   <img src="./assets/screenshot.png" alt="Habits preview">
 </div>
 
-<h2>📋 The challenge</h2>
+<h2>📋 The project</h2>
 
 The project was to build a daily <a href="https://www.figma.com/community/file/1195050984449538256">habit tracker</a> assistant.
 
