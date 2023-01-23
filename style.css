@@ -7,7 +7,6 @@
 * {
   margin: 0;
   padding: 0;
-  /* border: 1px solid red; */
 }
 
 ::-webkit-scrollbar {
@@ -152,11 +151,15 @@ input:checked {
     background: #a78bfa;
   }
 
-  button:is(:hover, :focus) {
+  button:is(:hover) {
     background: #8b5cf6;
   }
 
-  button:is(:hover, :focus) .ico {
+  button:active {
+    background: hsl(258, 90%, 60%);
+  }
+
+  button:is(:hover, :active) .ico {
     stroke: #ffffff;
   }
 
